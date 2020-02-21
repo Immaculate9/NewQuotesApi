@@ -1,0 +1,16 @@
+C:\Users\immaculate.egwu\source\repos\NewQuotesApi\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\immaculate.egwu\source\repos\NewQuotesApi\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\immaculate.egwu\source\repos\NewQuotesApi\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\immaculate.egwu\source\repos\NewQuotesApi\bin\Debug\netcoreapp2.1\NewQuotesApi.deps.json
+C:\Users\immaculate.egwu\source\repos\NewQuotesApi\bin\Debug\netcoreapp2.1\NewQuotesApi.runtimeconfig.json
+C:\Users\immaculate.egwu\source\repos\NewQuotesApi\bin\Debug\netcoreapp2.1\NewQuotesApi.runtimeconfig.dev.json
+C:\Users\immaculate.egwu\source\repos\NewQuotesApi\bin\Debug\netcoreapp2.1\NewQuotesApi.dll
+C:\Users\immaculate.egwu\source\repos\NewQuotesApi\bin\Debug\netcoreapp2.1\NewQuotesApi.pdb
+C:\Users\immaculate.egwu\source\repos\NewQuotesApi\obj\Debug\netcoreapp2.1\NewQuotesApi.RazorAssemblyInfo.cache
+C:\Users\immaculate.egwu\source\repos\NewQuotesApi\obj\Debug\netcoreapp2.1\NewQuotesApi.RazorAssemblyInfo.cs
+C:\Users\immaculate.egwu\source\repos\NewQuotesApi\obj\Debug\netcoreapp2.1\NewQuotesApi.AssemblyInfoInputs.cache
+C:\Users\immaculate.egwu\source\repos\NewQuotesApi\obj\Debug\netcoreapp2.1\NewQuotesApi.AssemblyInfo.cs
+C:\Users\immaculate.egwu\source\repos\NewQuotesApi\obj\Debug\netcoreapp2.1\NewQuotesApi.RazorTargetAssemblyInfo.cache
+C:\Users\immaculate.egwu\source\repos\NewQuotesApi\obj\Debug\netcoreapp2.1\NewQuotesApi.dll
+C:\Users\immaculate.egwu\source\repos\NewQuotesApi\obj\Debug\netcoreapp2.1\NewQuotesApi.pdb
+C:\Users\immaculate.egwu\source\repos\NewQuotesApi\obj\Debug\netcoreapp2.1\NewQuotesApi.csprojAssemblyReference.cache

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\immaculate.egwu\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\immaculate.egwu\\.nuget\\packages"
+    ]
+  }
+}
